@@ -8,10 +8,6 @@ __pycache__/
 venv/
 ENV/
 
-# Data and Models (often large and not versioned)
-data/
-saved_models/
-
 # IDE and OS files
 .vscode/
 .idea/
